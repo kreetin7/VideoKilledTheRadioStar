@@ -18,12 +18,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1498" />
+          <entry key="cs" value="1890" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1498" />
+          <entry key="C#" value="1890" />
         </counts>
       </usages-collector>
     </session>
@@ -33,23 +33,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+            <state relative-caret-position="516">
+              <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
               <folding>
-                <marker date="1568322525149" expanded="false" signature="6:78" ph="..." />
-                <marker date="1568322525149" expanded="true" signature="122:1610" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="126:192" ph="/* public GameObject []  ScreenCube; ... */" />
-                <marker date="1568322525149" expanded="true" signature="489:1163" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="606:831" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="766:827" ph="/* cubes [i].SetActive(true); ... */" />
-                <marker date="1568322525149" expanded="true" signature="899:1032" ph="/* cubes [i].SetActive(true); ... */" />
-                <marker date="1568322525149" expanded="true" signature="1036:1151" ph="/* if (i &gt; 0) ... */" />
-                <marker date="1568322525149" expanded="true" signature="1218:1496" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="1237:1273" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="1281:1358" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="1366:1486" ph="/* if (CountDownTime &gt; 1f) ... */" />
-                <marker date="1568322525149" expanded="true" signature="1518:1608" ph="{...}" />
-                <marker date="1568322525149" expanded="true" signature="1536:1605" ph="{...}" />
+                <marker date="1568575331271" expanded="false" signature="6:78" ph="..." />
+                <marker date="1568575331271" expanded="true" signature="121:1907" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="126:192" ph="/* public GameObject []  ScreenCube; ... */" />
+                <marker date="1568575331271" expanded="true" signature="487:832" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="527:763" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="698:759" ph="/* cubes [i].SetActive(true); ... */" />
+                <marker date="1568575331271" expanded="true" signature="885:1902" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="909:1047" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="969:1042" ph="/* else if (Input.GetKeyUp(KeyCode.Space)) ... */" />
+                <marker date="1568575331271" expanded="true" signature="1055:1136" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="1197:1500" ph="{...}" />
+                <marker date="1568575331271" expanded="true" signature="1264:1496" ph="/* for (int i = 0; i &lt; 1; i++) ... */" />
+                <marker date="1568575331271" expanded="true" signature="1505:1890" ph="/* if (Input.GetKey(KeyCode.Space) &amp;&amp; cloneIndex != 0) ... */" />
               </folding>
             </state>
           </provider>
@@ -140,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568313991269</updated>
-      <workItem from="1568313995968" duration="8528000" />
+      <workItem from="1568313995968" duration="12427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8528000" />
+    <option name="totallyTimeSpent" value="12427000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,23 +206,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        <state relative-caret-position="516">
+          <caret line="83" column="9" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
           <folding>
-            <marker date="1568322525149" expanded="false" signature="6:78" ph="..." />
-            <marker date="1568322525149" expanded="true" signature="122:1610" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="126:192" ph="/* public GameObject []  ScreenCube; ... */" />
-            <marker date="1568322525149" expanded="true" signature="489:1163" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="606:831" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="766:827" ph="/* cubes [i].SetActive(true); ... */" />
-            <marker date="1568322525149" expanded="true" signature="899:1032" ph="/* cubes [i].SetActive(true); ... */" />
-            <marker date="1568322525149" expanded="true" signature="1036:1151" ph="/* if (i &gt; 0) ... */" />
-            <marker date="1568322525149" expanded="true" signature="1218:1496" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="1237:1273" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="1281:1358" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="1366:1486" ph="/* if (CountDownTime &gt; 1f) ... */" />
-            <marker date="1568322525149" expanded="true" signature="1518:1608" ph="{...}" />
-            <marker date="1568322525149" expanded="true" signature="1536:1605" ph="{...}" />
+            <marker date="1568575331271" expanded="false" signature="6:78" ph="..." />
+            <marker date="1568575331271" expanded="true" signature="121:1907" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="126:192" ph="/* public GameObject []  ScreenCube; ... */" />
+            <marker date="1568575331271" expanded="true" signature="487:832" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="527:763" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="698:759" ph="/* cubes [i].SetActive(true); ... */" />
+            <marker date="1568575331271" expanded="true" signature="885:1902" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="909:1047" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="969:1042" ph="/* else if (Input.GetKeyUp(KeyCode.Space)) ... */" />
+            <marker date="1568575331271" expanded="true" signature="1055:1136" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="1197:1500" ph="{...}" />
+            <marker date="1568575331271" expanded="true" signature="1264:1496" ph="/* for (int i = 0; i &lt; 1; i++) ... */" />
+            <marker date="1568575331271" expanded="true" signature="1505:1890" ph="/* if (Input.GetKey(KeyCode.Space) &amp;&amp; cloneIndex != 0) ... */" />
           </folding>
         </state>
       </provider>
